@@ -11,3 +11,5 @@ estou estudando na [alura](HTTP://www.alura.com.br/)
  Eu gosto muito de rock e um dos meus sonhos é aprender a tocar guitarra, porém vou seguir minha carreira profissional apenas como pianista.Sou uma pessoa muito carinhosa, amorosa e atenciosa.
 
  
+![.](https://media.tenor.com/5CKuXIOwRhIAAAAj/%D1%80%D0%BE%D0%BA.gif)
+![.](https://media.tenor.com/GVGMfASDo9AAAAAM/hello-kitty.gif)
